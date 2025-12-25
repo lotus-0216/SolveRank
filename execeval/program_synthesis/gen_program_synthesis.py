@@ -18,7 +18,7 @@ IF_SAMPLE = False
 
 
 # 设置OpenAI API
-openai.api_key = "sk-Okf9TYIr0BvKEetyZ7j5vtQyWBmE7EYuMhf5ayS5HSnijONO"
+openai.api_key = "xxxx"
 openai.api_base = "https://api.chatanywhere.tech/v1"
 
 def gen(prompt, temperature, nsample):
